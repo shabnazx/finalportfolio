@@ -389,7 +389,7 @@ justify-content: flex-end;
     width:auto;
 }
 .blue {
-    background-color: #81d8d0; /* Green */
+    background-color: #81d8d0; /* makes it blue */
     border: none;
     color: white;
     padding: 15px 35px;
